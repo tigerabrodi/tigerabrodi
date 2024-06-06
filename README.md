@@ -1,25 +1,19 @@
-## Hiya 👋
+## Hey 👋
 
-I'm a software craftsman, writer and reader.
+I'm a product engineer and a writer.
 
-I describe myself as a product engineer rather than being associated with specific technologies.
+I like to describe myself as a product engineer, as my aim isn't the tech but rather the outcome I'm producing.
 
-I'm a recognized Hashnode Blogging Expert with 100 000+ views and have written 200+ posts over the past 3 years.
+I work across the entire stack: Frontend, Backend, Cloud, and Infrastructure as code, **but I specialize in Frontend (CSS, Accessibility, Performance, React and more).**
 
-## 🗳️ Skills/Tech
+I'm an avid writer. I have both a blog and a newsletter. 😁
 
-• React, Remix, MUI, Zod, TypeScript, GraphQL, Styled Components, Tailwind, Firebase, Prisma, Express, NextJS and Figma.
+I'm also recognized as a [Hashnode Blogging Expert](https://tigerabrodi.blog/) with 100k+ blog reads.
 
-• Terraform, CDKTF, GCP, AWS.
+## Anime 🙈
 
-• Cypress, Jest, Testing Library, Playwright, Postman & Storybook.
+I love to watch anime.
 
-• Extreme Programming, Clean Code, CI/CD, TDD, Interviewing & Accessibility.
+My favorite one is Naruto. 🦊
 
-• Writing RFCs, increasing bus factor, collaborating cross-teams.
-
-## Favorite Anime 🙈
-
-My favorite Anime is Naruto.
-
-![image](https://github.com/tigerabrodi/tigerabrodi/assets/49603590/260f2176-67b3-4934-8cd2-3b8c19904e7f)
+![image](https://github.com/tigerabrodi/tigerabrodi/assets/49603590/c1281d61-721c-4a3b-8ca8-840e3402bf88)
