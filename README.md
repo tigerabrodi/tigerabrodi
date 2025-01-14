@@ -10,6 +10,8 @@ I'm an avid writer. I have both a [blog](https://tigerabrodi.blog/) and a [newsl
 
 I'm also recognized as a [Hashnode Blogging Expert](https://tigerabrodi.blog/) with 100k+ blog reads.
 
+If you're looking for my book on advanced JS, you can find it here: [Intermediate To Advanced JS](https://github.com/tigerabrodi/intermediate-to-advanced-js-book).
+
 ## Anime 🙈
 
 I love to watch anime.
