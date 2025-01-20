@@ -12,6 +12,20 @@ I'm also recognized as a [Hashnode Blogging Expert](https://tigerabrodi.blog/) w
 
 If you're looking for my book on advanced JS, you can find it here: [Intermediate To Advanced JS](https://github.com/tigerabrodi/intermediate-to-advanced-js-book).
 
+---
+
+Besides product stuff, I love to learn from first principles.
+
+I do it either through writing or building things from scratch.
+
+Some things I've built from scratch:
+
+- [Zod from scratch](https://github.com/tigerabrodi/Zod-from-scratch)
+- [Load balancer](https://github.com/tigerabrodi/load-balancer)
+- [DNS Resolver](https://github.com/tigerabrodi/dns-resolver)
+- [Rate Limiter](https://github.com/tigerabrodi/rate-limiter)
+- [Load Tester](https://github.com/tigerabrodi/load-tester)
+
 ## Anime 🙈
 
 I love to watch anime.
