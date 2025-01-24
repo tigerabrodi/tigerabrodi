@@ -16,7 +16,7 @@ If you're looking for my book on advanced JS, you can find it here: [Intermediat
 
 Libraries:
 
-- [React Context Selector](https://github.com/tigerabrodi/react-context-selector): A lightweight library for efficient React Context updates using selectors. (< 1kb gzipped)
+- [React Context Selector](https://github.com/tigerabrodi/react-context-selector) - A lightweight library for efficient React Context updates using selectors. (< 1kb gzipped)
 
 ---
 
