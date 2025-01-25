@@ -26,6 +26,7 @@ I do it either through writing or building things from scratch.
 
 Some things I've built from scratch:
 
+- [Zustand from scratch](https://github.com/tigerabrodi/zustand-from-scratch)
 - [Zod from scratch](https://github.com/tigerabrodi/Zod-from-scratch)
 - [Load balancer](https://github.com/tigerabrodi/load-balancer)
 - [DNS Resolver](https://github.com/tigerabrodi/dns-resolver)
