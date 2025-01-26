@@ -26,6 +26,7 @@ I do it either through writing or building things from scratch.
 
 Some things I've built from scratch:
 
+- [Signals from scratch](https://github.com/tigerabrodi/signals-from-scratch/)
 - [Jotai from scratch](https://github.com/tigerabrodi/jotai-from-scratch/)
 - [Zustand from scratch](https://github.com/tigerabrodi/zustand-from-scratch)
 - [Zod from scratch](https://github.com/tigerabrodi/Zod-from-scratch)
