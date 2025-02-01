@@ -1,22 +1,16 @@
 ## Hey 👋
 
-I'm a product engineer and a writer.
+I'm a product engineer and a writer. 😃
 
 I like to describe myself as a product engineer, as my aim isn't the tech but rather the outcome I'm producing.
 
 I work across the entire stack: Frontend, Backend, Cloud, and Infrastructure as code, **but I specialize in Frontend (CSS, Accessibility, Performance, React and more).**
 
-I'm an avid writer. I have both a [blog](https://tigerabrodi.blog/) and a [newsletter](https://www.saiyangrowthletter.com/). 😁
-
-I'm also recognized as a [Hashnode Blogging Expert](https://tigerabrodi.blog/) with 100k+ blog reads.
-
-If you're looking for my book on advanced JS, you can find it here: [Intermediate To Advanced JS](https://github.com/tigerabrodi/intermediate-to-advanced-js-book).
+I'm an avid writer. I have both a [blog](https://tigerabrodi.blog/) and a [newsletter](https://www.saiyangrowthletter.com/) 🚀
 
 ---
 
-Libraries:
-
-- [React Context Selector](https://github.com/tigerabrodi/react-context-selector) - A lightweight library for efficient React Context updates using selectors. (< 1kb gzipped)
+If you're looking for my book on advanced JS, you can find it here: [Intermediate To Advanced JS](https://github.com/tigerabrodi/intermediate-to-advanced-js-book).
 
 ---
 
@@ -35,6 +29,20 @@ Some things I've built from scratch:
 - [DNS Resolver](https://github.com/tigerabrodi/dns-resolver)
 - [Rate Limiter](https://github.com/tigerabrodi/rate-limiter)
 - [Load Tester](https://github.com/tigerabrodi/load-tester)
+
+---
+
+OSS libraries:
+
+- [React Context Selector](https://github.com/tigerabrodi/react-context-selector) - A lightweight library for efficient React Context updates using selectors. (< 1kb gzipped)
+
+---
+
+Design engineering related stuff:
+
+- [CSS Lab](https://github.com/tigerabrodi/css-lab/) - A place with fun CSS creations.
+
+---
 
 ## Anime 🙈
 
