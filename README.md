@@ -40,7 +40,7 @@ OSS libraries:
 
 Design engineering related stuff:
 
-- [Framer Motion Best Practices](https://github.com/tigerabrodi/framer-motion-best-practices)
+- [Framer Motion Best Practices](https://github.com/tigerabrodi/framer-motion-best-practices) - Some quick notes.
 - [CSS Lab](https://github.com/tigerabrodi/css-lab/) - A place with fun CSS creations.
 
 ---
