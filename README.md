@@ -38,6 +38,7 @@ OSS libraries:
 
 Design engineering related stuff:
 
+- [Motion Labs](https://github.com/tigerabrodi/motion-labs) - A place with fun framer motion creations.
 - [Framer Motion Best Practices](https://github.com/tigerabrodi/framer-motion-best-practices) - Some quick notes.
 - [CSS Lab](https://github.com/tigerabrodi/css-lab/) - A place with fun CSS creations.
 
