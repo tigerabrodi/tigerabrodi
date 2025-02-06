@@ -2,9 +2,7 @@
 
 I'm a product engineer and a writer. 😃
 
-I like to describe myself as a product engineer, as my aim isn't the tech but rather the outcome I'm producing.
-
-I work across the entire stack: Frontend, Backend, Cloud, and Infrastructure as code, **but I specialize in Frontend (CSS, Accessibility, Performance, React and more).**
+I work across the entire stack: Frontend, Backend, Cloud, and Infrastructure as code. But frontend is my jam, including areas like design engineering and web perf.
 
 I'm an avid writer. I have both a [blog](https://tigerabrodi.blog/) and a [newsletter](https://www.saiyangrowthletter.com/) 🚀
 
@@ -14,7 +12,7 @@ If you're looking for my book on advanced JS, you can find it here: [Intermediat
 
 ---
 
-Besides product stuff, I love to learn from first principles.
+I love to learn from first principles.
 
 I do it either through writing or building things from scratch.
 
