@@ -1,8 +1,8 @@
 ## Hey 👋
 
-I'm a product engineer and a writer. 😃
+Product engineer, writer and designer. 😃
 
-I work across the entire stack: Frontend, Backend, Cloud, and Infrastructure as code. But frontend is my jam, including areas like design engineering and web perf.
+Passionate about design engineering, web performance and AI.
 
 I'm an avid writer. I have both a [blog](https://tigerabrodi.blog/) and a [newsletter](https://www.saiyangrowthletter.com/) 🚀
 
