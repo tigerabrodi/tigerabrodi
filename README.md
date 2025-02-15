@@ -12,6 +12,12 @@ If you're looking for my book on advanced JS, you can find it here: [Intermediat
 
 ---
 
+OSS products (already got 6 projects pinned 😟, sharing remaining ones here):
+
+- [Igris](https://github.com/tigerabrodi/igris) - A more streamlined way to create and manage voice messages. Great for e.g. games.
+
+---
+
 I love to learn from first principles.
 
 I do it either through writing or building things from scratch.
