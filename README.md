@@ -12,10 +12,9 @@ If you're looking for my book on advanced JS, you can find it here: [Intermediat
 
 ---
 
-OSS products (already got 6 projects pinned 😟, sharing remaining ones here):
+OSS products (already got 6 projects pinned 😟, sharing remaining ones here). These are free (use your own API keys model):
 
 - [Igris](https://github.com/tigerabrodi/igris) - A more streamlined way to create and manage voice messages. Great for e.g. games.
-- [Sakuraflow](https://github.com/tigerabrodi/sakuraflow) - A lightweight, memory-efficient library for working with generator functions in TypeScript.
 
 ---
 
@@ -42,6 +41,7 @@ Some things I've built from scratch:
 OSS libraries:
 
 - [React Context Selector](https://github.com/tigerabrodi/react-context-selector) - A lightweight library for efficient React Context updates using selectors. (< 1kb gzipped)
+- [Sakuraflow](https://github.com/tigerabrodi/sakuraflow) - A lightweight, memory-efficient library for working with generator functions in TypeScript.
 
 ---
 
