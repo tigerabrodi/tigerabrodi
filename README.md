@@ -42,6 +42,7 @@ OSS libraries:
 
 - [React Context Selector](https://github.com/tigerabrodi/react-context-selector) - A lightweight library for efficient React Context updates using selectors. (< 1kb gzipped)
 - [Sakuraflow](https://github.com/tigerabrodi/sakuraflow) - A lightweight, memory-efficient library for working with generator functions in TypeScript.
+- [eslint-plugin-react-sage-mode](https://github.com/tigerabrodi/eslint-plugin-react-sage-mode) - ESLint plugin with rules to help avoid common React performance pitfalls.
 
 ---
 
