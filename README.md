@@ -15,6 +15,7 @@ If you're looking for my book on advanced JS, you can find it here: [Intermediat
 OSS products (already got 6 projects pinned 😟, sharing remaining ones here). These are free (use your own API keys model):
 
 - [Igris](https://github.com/tigerabrodi/igris) - A more streamlined way to create and manage voice messages. Great for e.g. games.
+- [Hawanji](https://github.com/tigerabrodi/hawanji) - Turn your notes into quiz with AI.
 
 ---
 
