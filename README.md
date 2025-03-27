@@ -16,6 +16,7 @@ OSS products (already got 6 projects pinned 😟, sharing remaining ones here). 
 
 - [Igris](https://github.com/tigerabrodi/igris) - A more streamlined way to create and manage voice messages. Great for e.g. games.
 - [Hawanji](https://github.com/tigerabrodi/hawanji) - Turn your notes into quiz with AI.
+- [Beru](https://github.com/tigerabrodi/beru) - Let AI generate and read bedtime stories for your kids.
 
 ---
 
