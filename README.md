@@ -46,6 +46,7 @@ OSS libraries:
 - [Sakuraflow](https://github.com/tigerabrodi/sakuraflow) - A lightweight, memory-efficient library for working with generator functions in TypeScript.
 - [eslint-plugin-react-sage-mode](https://github.com/tigerabrodi/eslint-plugin-react-sage-mode) - ESLint plugin with rules to help avoid common React performance pitfalls.
 - [eslint-plugin-react-query-keys](https://github.com/tigerabrodi/eslint-plugin-react-query-keys) - ESLint plugin with rule to use query key factory pattern when working with react query keys.
+- [Berwald](https://github.com/tigerabrodi/berwald) - A light functional programming library in TypeScript. Written for fun.
 
 ---
 
