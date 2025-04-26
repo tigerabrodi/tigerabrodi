@@ -27,6 +27,7 @@ I do it either through writing or building things from scratch.
 Some things I've built from scratch:
 
 - [Immer from scratch](https://github.com/tigerabrodi/immer-from-scratch)
+- [React from scratch](https://github.com/tigerabrodi/arwaal)
 - [React's diffing algorithm](https://github.com/tigerabrodi/react-virtual-dom-diffing-algorithm)
 - [React Query From Scratch](https://github.com/tigerabrodi/react-query-from-scratch)
 - [Signals from scratch](https://github.com/tigerabrodi/signals-from-scratch/)
