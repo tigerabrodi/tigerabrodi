@@ -49,6 +49,7 @@ OSS libraries:
 - [eslint-plugin-react-query-keys](https://github.com/tigerabrodi/eslint-plugin-react-query-keys) - ESLint plugin with rule to use query key factory pattern when working with react query keys.
 - [Berwald](https://github.com/tigerabrodi/berwald) - A light functional programming library in TypeScript. Written for fun.
 - [Eiwaal](https://github.com/tigerabrodi/eiwaal/) - Animation library for React on top of View Transition API.
+- [Rudo](https://github.com/tigerabrodi/rudo) - A modern SMIL animation library for React. Write beautiful SVG animations without the SMIL syntax hell.
 
 ---
 
