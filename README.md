@@ -18,6 +18,7 @@ OSS products (already got 6 projects pinned 😟, sharing remaining ones here). 
 - [Hawanji](https://github.com/tigerabrodi/hawanji) - Turn your notes into quiz with AI.
 - [Beru](https://github.com/tigerabrodi/beru) - Let AI generate and read bedtime stories for your kids.
 - [Gakucha](https://github.com/tigerabrodi/gakucha) - A fitness timer that combines sets/timer + stopwatch while working out.
+- [Tanjaro](https://github.com/tigerabrodi/tanjiro) - A fitness timer that combines sets/timer + stopwatch while working out.
 
 ---
 
