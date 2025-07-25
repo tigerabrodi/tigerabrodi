@@ -19,6 +19,7 @@ OSS products (already got 6 projects pinned 😟, sharing remaining ones here). 
 - [Beru](https://github.com/tigerabrodi/beru) - Let AI generate and read bedtime stories for your kids.
 - [Gakucha](https://github.com/tigerabrodi/gakucha) - A fitness timer that combines sets/timer + stopwatch while working out.
 - [Tanjaro](https://github.com/tigerabrodi/tanjiro) - Generate and edit images with AI.
+- [Tokachan](https://github.com/tigerabrodi/tokachan/) - Your thoughts beautifully organized on digital paper.
 
 ---
 
