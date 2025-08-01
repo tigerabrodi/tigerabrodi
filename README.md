@@ -21,6 +21,10 @@ OSS products (already got 6 projects pinned 😟, sharing remaining ones here). 
 - [Tanjaro](https://github.com/tigerabrodi/tanjiro) - Generate and edit images with AI.
 - [Tokachan](https://github.com/tigerabrodi/tokachan/) - Your thoughts beautifully organized on digital paper.
 
+OSS Products behind closed access to not drain my own monies 😭
+
+- [Sakura Sketch](https://github.com/tigerabrodi/sakura-sketch) - Generate and iterate on anime characters with AI on infinite canvas.
+
 ---
 
 I love to learn from first principles.
