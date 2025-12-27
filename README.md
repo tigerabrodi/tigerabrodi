@@ -1,18 +1,12 @@
 ## Hey 👋
 
-Product engineer, writer and designer. 😃
+Just another cracked dev who loves to build and ship.
 
-Passionate about design engineering, web performance and AI.
-
-I'm an avid writer. I have both a [blog](https://tigerabrodi.blog/) and a [newsletter](https://www.saiyangrowthletter.com/) 🚀
+Spawn is my life.
 
 ---
 
-If you're looking for my book on advanced JS, you can find it here: [Intermediate To Advanced JS](https://github.com/tigerabrodi/intermediate-to-advanced-js-book).
-
----
-
-OSS products (already got 6 projects pinned 😟, sharing remaining ones here). These are free (use your own API keys model):
+Some stuff I built:
 
 - [Igris](https://github.com/tigerabrodi/igris) - A more streamlined way to create and manage voice messages. Great for e.g. games.
 - [Hawanji](https://github.com/tigerabrodi/hawanji) - Turn your notes into quiz with AI.
@@ -21,16 +15,9 @@ OSS products (already got 6 projects pinned 😟, sharing remaining ones here). 
 - [Tanjaro](https://github.com/tigerabrodi/tanjiro) - Generate and edit images with AI.
 - [Tokachan](https://github.com/tigerabrodi/tokachan/) - Your thoughts beautifully organized on digital paper.
 - [AnimeAlchemist](https://github.com/tigerabrodi/animealchemist) - Anime Alchemist is a tool that allows you to create anime characters and animations.
-
-OSS Products behind closed access to not drain my own monies 😭
-
 - [Sakura Sketch](https://github.com/tigerabrodi/sakura-sketch) - Generate and iterate on anime characters with AI on infinite canvas.
 
 ---
-
-I love to learn from first principles.
-
-I do it either through writing or building things from scratch.
 
 Some things I've built from scratch:
 
@@ -49,7 +36,7 @@ Some things I've built from scratch:
 
 ---
 
-OSS libraries:
+OSS libraries I've written:
 
 - [React Context Selector](https://github.com/tigerabrodi/react-context-selector) - A lightweight library for efficient React Context updates using selectors. (< 1kb gzipped)
 - [Sakuraflow](https://github.com/tigerabrodi/sakuraflow) - A lightweight, memory-efficient library for working with generator functions in TypeScript.
