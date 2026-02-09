@@ -1,6 +1,6 @@
 ## Hey 👋
 
-Just another cracked dev who loves to build and ship.
+Just another dev who loves to build and ship.
 
 Spawn is my life.
 
